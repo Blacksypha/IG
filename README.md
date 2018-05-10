@@ -8,13 +8,13 @@ User Stories
 
 The following required functionality is completed:
 
-xUser can sign up to create a new account using Parse authentication (+1pt)
-xUser can log in and log out of his or her account (+1pt)
-xThe current signed in user is persisted across app restarts (+1pt)
-xUser can take a photo, add a caption, and post it to "Instagram" (+2pt)
-xUser can view the last 20 posts submitted to "Instagram" (+2pt)
-xUser can pull to refresh the last 20 posts submitted to "Instagram" (+1pt)
-xUser can tap a post to view post details, including timestamp and caption (+2pt)
+[x] User can sign up to create a new account using Parse authentication (+1pt)
+[x] User can log in and log out of his or her account (+1pt)
+[x] The current signed in user is persisted across app restarts (+1pt)
+[x] User can take a photo, add a caption, and post it to "Instagram" (+2pt)
+[x] User can view the last 20 posts submitted to "Instagram" (+2pt)
+[x] User can pull to refresh the last 20 posts submitted to "Instagram" (+1pt)
+[x] User can tap a post to view post details, including timestamp and caption (+2pt)
 The following stretch features are implemented:
 
 Style the login page to look like the real Instagram login page (+1pt)
