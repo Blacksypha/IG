@@ -2,7 +2,7 @@
 //  LoginViewController.swift
 //  IG
 //
-//  Created by Tevin Lewis on 3/7/18.
+//  Created by Cory Dashiell on 3/7/18.
 //  Copyright © 2018 Cory Dashiell. All rights reserved.
 //
 
@@ -26,7 +26,6 @@ class LoginViewController: UIViewController {
         newUser.signUpInBackground { (success: Bool, error: Error?) in
             if let error = error {
                 print("User log in failed: \(error.localizedDescription)")
-                
                 
                 let alertController = UIAlertController(title: "Username Required", message: "Please enter a username in the text field", preferredStyle: .alert)
                 
